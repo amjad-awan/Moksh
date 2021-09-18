@@ -61,7 +61,7 @@ button
 .container{
     background-color: #1d1c1c;
     //margin: 0;
-    padding: 30px 0px;
+    //padding: 30px 0px;
 }
 
 form
@@ -171,9 +171,10 @@ nav .active
     border-right: 2px solid white;
 }
 
-//.main-images
+.main-images
 {
-    padding: 5px 0px;
+    //padding: 0;
+    //border:2px solid red
 }
 
 .main-images .out-wrapper
