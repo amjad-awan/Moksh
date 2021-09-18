@@ -420,6 +420,10 @@ form
     display: flex;
     justify-content: center;     
 }
+.upcoming a{
+  
+    font-size: 12px !important;
+}
 
 .main-images .out-wrapper
 {
