@@ -153,6 +153,12 @@ nav .active
 {
     background-color: #6EA427;
     color: white;
+    
+}
+
+nav .active:hover
+{
+    color:white;
 }
 
 .upcoming
